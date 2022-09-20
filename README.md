@@ -1,1 +1,0 @@
-# Lindsay-H-Express-Lab
