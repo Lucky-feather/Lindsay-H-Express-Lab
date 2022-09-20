@@ -1,0 +1,21 @@
+{
+  "name": "express-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucky-feather/Lindsay-H-Express-Lab.git"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucky-feather/Lindsay-H-Express-Lab/issues"
+  },
+  "homepage": "https://github.com/Lucky-feather/Lindsay-H-Express-Lab#readme"
+}
